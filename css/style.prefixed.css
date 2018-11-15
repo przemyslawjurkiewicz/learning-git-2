@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    width: 800px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+}
+
+body {
+	margin: 0;
+	font-family: Lato;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: blue;
+}
+
+img {
+    border-radius: 25%;
+    border: 2px solid lightblue;
+    width: 50%;
+    height: auto;
+}
+
+p {
+    font-size: 20px;
+}
