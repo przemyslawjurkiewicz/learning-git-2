@@ -22,7 +22,7 @@ h2 {
 
 img {
     border-radius: 25%;
-    
+    border: 2px solid lightblue;
 }
 
 p {
