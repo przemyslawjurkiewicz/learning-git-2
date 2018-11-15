@@ -5,6 +5,8 @@
 .container {
     margin: 0 auto;
     width: 800px;
+    display: flex;
+    flex-direction: column;
 }
 
 body {
@@ -23,6 +25,8 @@ h2 {
 img {
     border-radius: 25%;
     border: 2px solid lightblue;
+    width: 50%;
+    height: auto;
 }
 
 p {
